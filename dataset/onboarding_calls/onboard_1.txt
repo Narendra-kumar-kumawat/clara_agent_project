@@ -1,0 +1,7 @@
+Company: ABC Fire Protection
+
+Updated Emergency Routing:
+All sprinkler emergencies must go to the phone tree.
+
+Transfer Timeout:
+60 seconds

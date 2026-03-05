@@ -1,0 +1,10 @@
+Company: Rapid HVAC Services
+
+Updated Emergency Routing:
+Emergency HVAC failures must go to the senior technician first.
+
+Transfer Timeout:
+60 seconds
+
+Fallback:
+If transfer fails notify dispatch.

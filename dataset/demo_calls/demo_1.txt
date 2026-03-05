@@ -1,0 +1,14 @@
+Company: ABC Fire Protection
+Address: 12 Main Street, Texas
+Business Hours: Monday-Friday 9am-5pm
+Services: sprinkler systems, fire alarm systems
+
+Emergency Definition:
+- sprinkler leak
+- fire alarm triggered
+
+Emergency Routing:
+transfer to technician
+
+Notes:
+client wants quick emergency response

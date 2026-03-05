@@ -1,0 +1,7 @@
+Company: SafeGuard Electrical
+
+Updated Emergency Routing:
+Send emergency calls to dispatch manager.
+
+Transfer Timeout:
+45 seconds

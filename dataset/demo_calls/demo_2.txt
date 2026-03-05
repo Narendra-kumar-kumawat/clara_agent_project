@@ -1,0 +1,11 @@
+Company: SafeGuard Electrical
+Address: 55 Industrial Ave
+Business Hours: Monday-Saturday 8am-6pm
+Services: electrical repair, facility maintenance
+
+Emergency Definition:
+- power outage
+- electrical sparks
+
+Emergency Routing:
+transfer to on-call electrician

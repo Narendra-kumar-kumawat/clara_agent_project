@@ -1,0 +1,12 @@
+Company: Rapid HVAC Services
+Address: 88 Service Road, Houston
+Business Hours: Monday-Friday 8am-5pm
+Services: HVAC repair, cooling systems, heating systems
+
+Emergency Definition:
+- AC system failure
+- heating system shutdown
+- smoke from HVAC unit
+
+Emergency Routing:
+transfer to emergency technician

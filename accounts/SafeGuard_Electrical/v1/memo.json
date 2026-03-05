@@ -1,0 +1,27 @@
+{
+    "account_id": "SafeGuard_Electrical",
+    "company_name": "SafeGuard Electrical",
+    "business_hours": "Monday-Saturday 8am-6pm",
+    "office_address": "55 Industrial Ave",
+    "services_supported": [
+        "electrical repair",
+        "facility maintenance"
+    ],
+    "emergency_definition": [
+        "power outage",
+        "electrical sparks",
+        "transfer to oncall electrician"
+    ],
+    "emergency_routing_rules": "",
+    "non_emergency_routing_rules": "collect details and schedule follow-up",
+    "call_transfer_rules": {
+        "timeout": "60 seconds",
+        "retry": "1",
+        "fallback": "notify dispatch"
+    },
+    "integration_constraints": "",
+    "after_hours_flow_summary": "greet caller, confirm emergency, collect name phone address, attempt transfer, fallback and assure follow-up",
+    "office_hours_flow_summary": "greet caller, ask purpose, collect name and phone number, route call, fallback if transfer fails",
+    "questions_or_unknowns": [],
+    "notes": ""
+}
